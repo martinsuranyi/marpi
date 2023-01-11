@@ -20,17 +20,23 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
 
 table, th, td{
-        border: 2px solid black;
-        border-radius: 25px;
-      }
+    border: 0px solid black;
+    border-radius: 10px;
+}
 table, th{
     text-align: center;
-}      
-body{
-    background-color: aquamarine;
 }
+
 table{
     background-color: brown;
     color:black;
@@ -68,3 +74,13 @@ form {
   input[type=submit]:hover {
     opacity: 0.8;
   }
+
+.tg{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nevsor, li{
+    text-align: center;
+}
+
